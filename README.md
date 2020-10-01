@@ -158,6 +158,7 @@ df.head()
 
 ```python
 df.info()
+df.describe()  # You can use describe function it gives the whole mathematical result (mean, std, median 25%, 50%, 75%)
 ```
 
     <class 'pandas.core.frame.DataFrame'>
